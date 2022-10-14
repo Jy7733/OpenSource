@@ -2,10 +2,10 @@
 >유재영
 >>20213080 ai융합
 ___
-### Studying
+## Studying
 *Python*
 *C*
----
 
-[GitHub](https://github.com/Jy7733/)
+---
+[GitHub Link](https://github.com/Jy7733/)
 
