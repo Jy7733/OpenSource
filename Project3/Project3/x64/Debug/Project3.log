@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\jaeyoung\Desktop\c프로젝트\Project3\Project3\소스.c(143,4): warning C4133: '함수': 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)'과(와) 'DLGPROC' 사이의 형식이 호환되지 않습니다.
+C:\Users\jaeyoung\Desktop\c프로젝트\Project3\Project3\소스.c(147,4): warning C4133: '함수': 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)'과(와) 'DLGPROC' 사이의 형식이 호환되지 않습니다.
+C:\Users\jaeyoung\Desktop\c프로젝트\Project3\Project3\소스.c(153,44): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project3.vcxproj -> C:\Users\jaeyoung\Desktop\c프로젝트\Project3\x64\Debug\Project3.exe
